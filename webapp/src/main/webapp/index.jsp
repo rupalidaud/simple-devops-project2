@@ -12,11 +12,11 @@
     <input type="text" placeholder="Enter Last Name" name="Last Name" id="Last Name" required>
     <br>
 
-    <label for="mobile"><b> mobile</b></label>
+    <label for="Enter mobile"><b> mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b> Email</b></label>
+    <label for="Enter email"><b> Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
